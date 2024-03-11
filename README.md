@@ -13,7 +13,7 @@ The WooCommerce Custom Documents Tab plugin enhances the user experience of your
 
 ## Installation
 
-1. Download the 'woocommerce-custom-documents-tab' folder.
+1. Download the 'woocommerce-custom-pdf-tab-plugin' folder.
 2. Upload it to the wp-content/plugins/ directory in your WordPress installation.
 3. Activate the plugin from the WordPress admin panel.
 4. After installing the plugin, make sure to save permalink settings to ensure proper functioning of the custom tab.
