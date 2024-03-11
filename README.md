@@ -2,14 +2,14 @@
 
 # Description
 
-The WooCommerce Custom Documents Tab plugin enhances the user experience of your WooCommerce store by adding a custom tab to the My Account page. This tab allows users to download personalized PDF documents tailored to their individual needs. Administrators can upload and associate different PDF documents for each user, providing a personalized experience for customers.
+The WooCommerce Custom Documents Tab plugin enhances the user experience of your WooCommerce store by adding a **custom tab to the My Account page**. This tab allows users to **download personalized PDF documents** tailored to their individual needs. Administrators can upload and associate different PDF documents for each user, providing a personalized experience for customers.
 
 ## Features
 
-- Personalized PDF Downloads: Enable users to download personalized PDF documents from a custom tab in their My Account page.
-- Individual Document Association: Administrators can upload and associate different PDF documents for each user.
-- Enhanced User Experience: Improve user satisfaction by offering personalized downloadable content.
-- Flexible Integration: Seamlessly integrates with WooCommerce, ensuring compatibility and ease of use.
+- **Personalized PDF Downloads**: Enable users to download personalized PDF documents from a custom tab in their My Account page.
+- **Individual Document Association**: Administrators can upload and associate different PDF documents for each user.
+- **Enhanced User Experience**: Improve user satisfaction by offering personalized downloadable content.
+- **Flexible Integration**: Seamlessly integrates with WooCommerce, ensuring compatibility and ease of use.
 
 ## Installation
 
@@ -20,8 +20,8 @@ The WooCommerce Custom Documents Tab plugin enhances the user experience of your
 
 ## Usage
 
-1. Upload and associate PDF documents for each user from the WordPress media library in a custom field created by Plugin.
-2. Users will see the Documents tab in their My Account page, where they can download their personalized PDF documents, associated with them.
+1. Upload and **associate PDF documents for each user** from the WordPress media library in a **custom field created by this plugin**.
+2. **Users will see the Documents tab** in their My Account page, where they can download their personalized PDF documents, associated with them.
 
 ## Contributing
 
